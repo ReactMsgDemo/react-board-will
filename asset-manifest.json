@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMsgDemo/react-board-will.git/static/css/main.073c9b0a.css",
+    "main.js": "/ReactMsgDemo/react-board-will.git/static/js/main.c572b437.js",
+    "static/js/787.062c39b6.chunk.js": "/ReactMsgDemo/react-board-will.git/static/js/787.062c39b6.chunk.js",
+    "index.html": "/ReactMsgDemo/react-board-will.git/index.html",
+    "main.073c9b0a.css.map": "/ReactMsgDemo/react-board-will.git/static/css/main.073c9b0a.css.map",
+    "main.c572b437.js.map": "/ReactMsgDemo/react-board-will.git/static/js/main.c572b437.js.map",
+    "787.062c39b6.chunk.js.map": "/ReactMsgDemo/react-board-will.git/static/js/787.062c39b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c572b437.js"
+  ]
+}
